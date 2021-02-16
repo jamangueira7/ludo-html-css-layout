@@ -107,7 +107,8 @@
     border: 1px solid #000;
 }
 
-.row2-col1 > div {
+.row2-col1 > div,
+.row2-col3 > div {
     width: 16.367%;
     height: 33.33%;
     float: left;
