@@ -72,6 +72,11 @@
     background-color: #fff;
 }
 
+.icon {
+    margin: 3px;
+    color: #fff;
+}
+
 .row1-col1-child,
 .row1-col3-child,
 .row3-col1-child,
